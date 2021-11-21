@@ -17,8 +17,20 @@ WHEN I click the save button for that timeblock<br>
 THEN the text for that event is saved in local storage<br>
 WHEN I refresh the page<br>
 THEN the saved events persist<br>
-
 <br>
-
 **Note: This demo is showing non-standard business hours in order to capture the functionality.**
+
+https://user-images.githubusercontent.com/91171412/142749994-16660c0d-80f2-4107-ba7e-324048e65262.mp4
+
+
+
+<h2>Resources</h2>
+https://momentjs.com/docs/#/use-it/browser/
 <br>
+https://stackoverflow.com/questions/61006336/examining-multiple-elements-to-determine-their-color-using-jquery
+<br>
+https://www.w3schools.com/jquery/jquery_selectors.asp
+<br>
+https://www.w3schools.com/jsref/api_storage.asp
+<br>
+https://learn.jquery.com/
