@@ -22,4 +22,3 @@ THEN the saved events persist<br>
 
 **Note: This demo is showing non-standard business hours in order to capture the functionality.**
 <br>
-<img src ="https://media.giphy.com/media/UaiCHaI5jfS01u6JnT/giphy.gif">
