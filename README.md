@@ -18,6 +18,9 @@ THEN the text for that event is saved in local storage<br>
 WHEN I refresh the page<br>
 THEN the saved events persist<br>
 <br>
+Link to Deployed App: https://nparker80.github.io/Daily_Planner/
+
+
 **Note: This demo is showing non-standard business hours in order to capture the functionality.**
 
 https://user-images.githubusercontent.com/91171412/142749994-16660c0d-80f2-4107-ba7e-324048e65262.mp4
